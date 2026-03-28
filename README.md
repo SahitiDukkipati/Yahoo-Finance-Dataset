@@ -14,8 +14,7 @@ stock-market-analysis/
 │   └── cleaned/         ← cleaned dataset used in Power BI
 |--Data cleaning/
 |-VS Code---Finance_dataset.ipynb
-├── dashboard/
-│   └── Finance dataset.pbix
+
 ├── screenshots/
 │   └── dashboard_preview.png
 └── README.md
