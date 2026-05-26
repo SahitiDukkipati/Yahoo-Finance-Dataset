@@ -2,7 +2,7 @@
 
 
 
-End-to-end stock market analysis project covering data cleaning, exploratory analysis, and an interactive Power BI dashboard with DAX measures — built on the Massive Yahoo Finance Dataset (AAPL, MSFT, GOOGL, AMZN, NVDA).
+End-to-end stock market analysis project covering data cleaning, exploratory analysis, and an interactive Power BI and Tableau dashboard with DAX measures — built on the Massive Yahoo Finance Dataset (AAPL, MSFT, GOOGL, AMZN, NVDA).
 
 ---
 
