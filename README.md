@@ -67,4 +67,4 @@ stock-market-analysis/
 | DAX |
 | Excel / CSV | Raw data handling |
 
-Dashboard:https://github.com/SahitiDukkipati/Yahoo-Finance-Dataset/blob/d357dcc7a5dc789dabf0f7b1dab45b1ae81c5f91/dashboard_preview.png
+Dashboard: ![Dashboard Preview](https://github.com/SahitiDukkipati/Yahoo-Finance-Dataset/blob/d357dcc7a5dc789dabf0f7b1dab45b1ae81c5f91/dashboard_preview.png)
