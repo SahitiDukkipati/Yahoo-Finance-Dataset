@@ -11,13 +11,13 @@ End-to-end stock market analysis project covering data cleaning, exploratory ana
 stock-market-analysis/
 ├── data/
 │   ├──Massive Yahoo Finance Dataset/ ← original Kaggle dataset
-│   └── cleaned/         ← cleaned dataset used in Power BI
+│   
 |--Data cleaning/
-|-VS Code---Finance_dataset.ipynb
+|   └── Finance_dataset.ipynb
 
 ├── screenshots/
 │   └── dashboard_preview.png
-|   └── dashboard_1.png
+|   └── dashboard_preview_1.png
 └── README.md
 ```
 
