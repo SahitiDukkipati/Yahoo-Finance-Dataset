@@ -22,6 +22,10 @@ stock-market-analysis/
 └── README.md
 ```
 
+## 🗂️ Dataset
+**Source:** [Massive Yahoo Finance Dataset](https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset) on Kaggle  
+**Columns:** Date, Open, High, Low, Close, Volume, Dividends, Stock Splits, Company
+
 ---
 
 ## 🔧 Data cleaning
@@ -51,12 +55,6 @@ stock-market-analysis/
 -Found the average closing price of each company
 - Average spread and Total trading volume
 - Highest prices reached per year
-
----
-
-## 🗂️ Dataset
-**Source:** [Massive Yahoo Finance Dataset](https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset) on Kaggle  
-**Columns:** Date, Open, High, Low, Close, Volume, Dividends, Stock Splits, Company, Daily_Return, Volatility
 
 ---
 
