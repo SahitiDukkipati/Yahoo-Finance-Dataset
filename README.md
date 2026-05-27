@@ -28,11 +28,17 @@ stock-market-analysis/
 
 ---
 
-## 🔧 Data cleaning
-- Removed null values and duplicate rows
-- Standardised date formats for time intelligence
-- Filtered top companies by average closing price
-- Engineered Daily_Return and Volatility columns
+## 🔧Data Cleaning (Power Query — Power BI)
+
+The raw dataset was sourced from Yahoo Finance and cleaned using Power Query in Power BI before analysis.
+
+Steps performed:
+- Removed null and blank values
+- Changed data types (Date, Decimal, Integer)
+- Renamed columns for clarity
+- Removed duplicate rows
+- Filtered out irrelevant date ranges
+- Extracted Date components (Year, Month) for time-based analysis
 
 ---
 
