@@ -18,6 +18,7 @@ stock-market-analysis/
 ├── screenshots/
 │   └── dashboard_Screenshot.png
 |   └── dashboard_screnshoot..png
+|   └── Dax Screenshot.png
 └── README.md
 ```
 
