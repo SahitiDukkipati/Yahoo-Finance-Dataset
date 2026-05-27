@@ -16,8 +16,8 @@ stock-market-analysis/
 |   └── Finance_dataset.ipynb
 
 ├── screenshots/
-│   └── dashboard_preview.png
-|   └── dashboard_preview_1.png
+│   └── dashboard_Screenshot.png
+|   └── dashboard_screnshoot..png
 └── README.md
 ```
 
@@ -68,4 +68,4 @@ stock-market-analysis/
 | DAX |
 | Excel / CSV | Raw data handling |
 
-Dashboard: ![Dashboard Preview](https://github.com/SahitiDukkipati/Yahoo-Finance-Dataset/blob/d357dcc7a5dc789dabf0f7b1dab45b1ae81c5f91/dashboard_preview.png)
+Dashboard: ![Dashboard Preview](https://github.com/SahitiDukkipati/Yahoo-Finance-Dataset/blob/9df3f38845445aaa1c22fca24d860b1f4616719d/Dashboard_Screenshot.png)
