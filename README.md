@@ -17,6 +17,7 @@ stock-market-analysis/
 
 ├── screenshots/
 │   └── dashboard_preview.png
+|   └── dashboard_1.png
 └── README.md
 ```
 
