@@ -11,9 +11,6 @@ End-to-end stock market analysis project covering data cleaning, exploratory ana
 stock-market-analysis/
 ├── data/
 │   ├──Massive Yahoo Finance Dataset/ ← original Kaggle dataset
-│   
-|--Data cleaning/
-|   └── Finance_dataset.ipynb
 
 ├── screenshots/
 │   └── dashboard_Screenshot.png
